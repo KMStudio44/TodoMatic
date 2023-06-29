@@ -2,7 +2,6 @@
 
 Deployed at: https://matictodo.netlify.app/
 
-
 A simple and intuitive Todo app built with React.
 
 ## Description
@@ -25,7 +24,7 @@ Todo Matic is todo app that is a lightweight task management application that he
     ```cd todoMatic```
 
 3. Install the dependencies:
-    ````npm install```
+    ```npm install```
 
 ## Usage
 1. Start the development server: 
