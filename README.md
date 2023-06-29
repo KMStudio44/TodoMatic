@@ -18,10 +18,10 @@ Todo Matic is a todo app that is a lightweight task management application that 
 ## Installation
 
 1. Clone the repository:
-    ```git clone https://github.com/SudoKMaar/todoMatic.git```
+    ```git clone https://github.com/SudoKMaar/TodoMatic.git```
 
 2. Navigate to the project directory:
-    ```cd todoMatic```
+    ```cd TodoMatic```
 
 3. Install the dependencies:
     ```npm install```
@@ -34,7 +34,7 @@ Todo Matic is a todo app that is a lightweight task management application that 
 ## Folder Structure
 The project structure is organized as follows:
 ```
-todoMatic/
+TodoMatic/
   ├── src/
   │   ├── components/
   │   │   ├── Todo.js
