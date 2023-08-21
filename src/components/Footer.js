@@ -12,10 +12,30 @@ const Footer = () => {
     opacity: 0.8,
   };
 
+  const linkStyle = {
+    color: "#ffffff",
+    textDecoration: "none",
+  };
   return (
     <footer style={footerStyle}>
-      &copy; {currentYear} Abhishek Kumar. All rights reserved. | Powered by
-      KMaar Miscellaneous Studio
+      &copy; {currentYear}{" "}
+      <a
+        href="https://kmaar.vercel.app/"
+        target="_blank"
+        rel="noopener noreferrer"
+        style={linkStyle}
+      >
+        Abhishek Kumar
+      </a>
+      . All rights reserved. | Powered by{" "}
+      <a
+        href="https://kmstudio.vercel.app/"
+        target="_blank"
+        rel="noopener noreferrer"
+        style={linkStyle}
+      >
+        KMaar Miscellaneous Studio
+      </a>
     </footer>
   );
 };

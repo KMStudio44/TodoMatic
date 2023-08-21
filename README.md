@@ -1,6 +1,7 @@
 ## Todo Matic
 
-Deployed at: https://matictodo.netlify.app/
+Deployed at: [MaticTodo](https://matictodo.netlify.app/)
+
 A simple and intuitive Todo app built with React.
 
 ## Description
@@ -17,21 +18,24 @@ Todo Matic is todo app that is a lightweight task management application that he
 ## Installation
 
 1. Clone the repository:
-    ```git clone https://github.com/SudoKMaar/todoMatic.git```
+   `git clone https://github.com/SudoKMaar/todoMatic.git`
 
 2. Navigate to the project directory:
-    ```cd todoMatic```
+   `cd todoMatic`
 
 3. Install the dependencies:
-    ````npm install```
+   ``npm install`
 
 ## Usage
-1. Start the development server: 
-    ```npm start```
+
+1. Start the development server:
+   `npm start`
 2. Open your web browser and visit http://localhost:3000 to access the Todo app.
 
 ## Folder Structure
+
 The project structure is organized as follows:
+
 ```
 todoMatic/
   ├── src/
@@ -50,7 +54,7 @@ todoMatic/
   ├── public/
   │   ├── favicon.ico
   │   ├── index.html
-  │   ├── manifest.json  
+  │   ├── manifest.json
   │   └── robots.txt
   ├── package.json
   ├── package-lock.json
@@ -64,9 +68,11 @@ todoMatic/
 `README.md`: Provides information about the Todo app and how to use it.
 
 ## Contributing
+
 Contributions are welcome! If you find any issues or would like to enhance the Todo app, feel free to open a pull request.
 
 ## License
+
 This Todo app is open source and available under the MIT License.
 
 Feel free to modify and customize the `README.md` file further to accurately represent your Todo app.
