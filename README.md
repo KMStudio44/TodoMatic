@@ -6,7 +6,7 @@ A simple and intuitive Todo app built with React.
 
 ## Description
 
-Todo Matic is todo app that is a lightweight task management application that helps you stay organized and productive. With its intuitive interface, you can easily add, edit, complete, and remove todos to effectively manage your daily tasks.
+Todo Matic is a todo app that is a lightweight task management application that helps you stay organized and productive. With its intuitive interface, you can easily add, edit, complete, and remove todos to effectively manage your daily tasks.
 
 ## Features
 
@@ -18,14 +18,14 @@ Todo Matic is todo app that is a lightweight task management application that he
 ## Installation
 
 1. Clone the repository:
-   `git clone https://github.com/SudoKMaar/todoMatic.git`
+  `git clone https://github.com/SudoKMaar/todoMatic.git`
 
 2. Navigate to the project directory:
    `cd todoMatic`
 
 3. Install the dependencies:
-   ``npm install`
-
+   ``npm install``
+   
 ## Usage
 
 1. Start the development server:
@@ -37,7 +37,7 @@ Todo Matic is todo app that is a lightweight task management application that he
 The project structure is organized as follows:
 
 ```
-todoMatic/
+TodoMatic/
   ├── src/
   │   ├── components/
   │   │   ├── Todo.js
@@ -62,9 +62,13 @@ todoMatic/
 ```
 
 `src/`: Contains the source code of the Todo app.
+
 `src/components/`: Contains individual React components used in the app.
+
 `public/`: Contains the public assets of the app, such as HTML and favicon.
+
 `package.json`: Defines the project dependencies and scripts.
+
 `README.md`: Provides information about the Todo app and how to use it.
 
 ## Contributing
